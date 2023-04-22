@@ -1,5 +1,5 @@
 # -CodeClause-_age-and-gender-Detection
-This is a computer vision project that aims to detect age and gender from a given image or video stream. The project uses a pre-trained deep learning model based on the OpenCV deep neural network module. The model was trained on a large dataset of human faces, and can accurately predict age and gender based on facial features.
+This is a computer vision project that aims to detect age and gender from a given image or video stream. The project uses a pre-trained deep learning model based on the OpenCV . The model was trained on a predict age and gender based on facial features.
 
 ### Installation
 
